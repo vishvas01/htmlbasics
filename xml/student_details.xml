@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="student_details.xsd">
+    <student>
+        <name>
+            <first_name>rakesh</first_name>
+            <last_name>sharma</last_name>
+        </name>
+        <registration_number>12345</registration_number>
+        <department>Computer Science</department>
+        <address>123 stark avenue</address>
+        <phone_number>123-4567</phone_number>
+    </student>
+    <student>
+        <name>
+            <first_name>suresh</first_name>
+            <last_name>verma</last_name>
+        </name>
+        <registration_number>67890</registration_number>
+        <department>Mathematics</department>
+        <address>456 pain hotel</address>
+        <phone_number>987-6543</phone_number>
+    </student>
+</student_details>
